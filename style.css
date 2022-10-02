@@ -376,8 +376,8 @@ header #menu{
 .teacher{
     text-align: center;
     background:url(MCADept.jpg) no-repeat;
-    background-size:middle;
-    background-position:bottom;
+    background-size: middle;
+    background-position: bottom;
 }
 
 .teacher p{
